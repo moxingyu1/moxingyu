@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="vipGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- VIP/Crown icon -->
+  <path d="M 20 35 L 30 55 L 40 30 L 50 50 L 60 25 L 70 55 L 80 35 L 75 70 L 25 70 Z" fill="url(#vipGrad)"/>
+  
+  <circle cx="30" cy="30" r="5" fill="url(#vipGrad)"/>
+  <circle cx="50" cy="20" r="5" fill="url(#vipGrad)"/>
+  <circle cx="70" cy="30" r="5" fill="url(#vipGrad)"/>
+</svg>

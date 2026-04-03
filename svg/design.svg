@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="designGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Design/Palette icon -->
+  <path d="M 50 20 C 30 20 20 40 20 60 C 20 80 35 85 50 85 C 65 85 80 80 80 60 C 80 40 70 20 50 20 Z" fill="url(#designGrad)"/>
+  
+  <circle cx="35" cy="50" r="5" fill="#fff" opacity="0.6"/>
+  <circle cx="45" cy="40" r="5" fill="#fff" opacity="0.6"/>
+  <circle cx="60" cy="45" r="5" fill="#fff" opacity="0.6"/>
+  <circle cx="65" cy="60" r="5" fill="#fff" opacity="0.6"/>
+</svg>

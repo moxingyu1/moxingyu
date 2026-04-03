@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="businessContactGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Business Contact/Briefcase icon -->
+  <rect x="25" y="35" width="50" height="35" rx="3" fill="url(#businessContactGrad)"/>
+  
+  <path d="M 40 35 L 40 30 C 40 25 60 25 60 30 L 60 35" fill="none" stroke="url(#businessContactGrad)" stroke-width="4"/>
+  
+  <line x1="30" y1="50" x2="70" y2="50" stroke="#fff" stroke-width="2" opacity="0.6"/>
+</svg>

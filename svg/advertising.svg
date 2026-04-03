@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="advertisingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Advertising/Megaphone icon -->
+  <path d="M 30 40 L 70 30 L 70 70 L 30 60 Z" fill="url(#advertisingGrad)"/>
+  
+  <rect x="20" y="45" width="15" height="10" fill="url(#advertisingGrad)"/>
+  
+  <!-- Sound waves -->
+  <path d="M 15 35 Q 10 50 15 65" fill="none" stroke="url(#advertisingGrad)" stroke-width="3" opacity="0.6"/>
+  <path d="M 8 30 Q 0 50 8 70" fill="none" stroke="url(#advertisingGrad)" stroke-width="3" opacity="0.4"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="teamGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Team/People icon -->
+  <circle cx="50" cy="35" r="15" fill="url(#teamGrad)"/>
+  <path d="M 25 85 Q 25 60 50 60 Q 75 60 75 85" fill="url(#teamGrad)"/>
+  
+  <circle cx="35" cy="30" r="10" fill="url(#teamGrad)" opacity="0.6"/>
+  <path d="M 20 85 Q 20 65 35 65" fill="none" stroke="url(#teamGrad)" stroke-width="3" opacity="0.6"/>
+  
+  <circle cx="65" cy="30" r="10" fill="url(#teamGrad)" opacity="0.6"/>
+  <path d="M 65 65 Q 80 65 80 85" fill="none" stroke="url(#teamGrad)" stroke-width="3" opacity="0.6"/>
+</svg>

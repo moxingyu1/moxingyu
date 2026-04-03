@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="privacyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#007acc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00aaff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Privacy/Shield with lock icon -->
+  <path d="M 50 15 L 75 25 L 75 50 C 75 70 60 85 50 90 C 40 85 25 70 25 50 L 25 25 Z" fill="url(#privacyGrad)" opacity="0.3"/>
+  
+  <rect x="40" y="40" width="20" height="25" rx="3" fill="url(#privacyGrad)"/>
+  <circle cx="50" cy="52" r="5" fill="#fff" opacity="0.3"/>
+  <rect x="48" y="52" width="4" height="8" fill="#fff"/>
+</svg>
